@@ -1,5 +1,7 @@
 # Epileptic-Seizure-Detection
 
+This repository has the code for the project on Deep Learning for identification of seizures on Epilepsy diagnosed patients.
+
 ### To do:
 
 #### Read research papers:
