@@ -23,3 +23,10 @@ This repository has the code for the project on Deep Learning for identification
 - [ ] Applying Neural Networks to Transformed files?
 - [ ] Combining techniques from existing deep learning models with Wavelet Analysis
 
+_______________________________________________
+
+Code updates:
+Set-up montage based system in Dataset class. Use indexes based on string values rather than just blind indexes
+Revise load_eeg_data class
+Put code in .py files
+
