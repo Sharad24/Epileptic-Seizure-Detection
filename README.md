@@ -13,8 +13,10 @@ This repository has the code for the project on Deep Learning for identification
 - [ ] Understanding EEG for epileptic seizures
 - [ ] Learning Robust Features using Deep Learning for Automatic Seizure Detection: https://arxiv.org/pdf/1608.00220.pdf
 
-#### Implementation of deep learning models:
-- [ ] Models in ChronoNet
+#### Deep learning models:
+- [x] Implementation of Models in ChronoNet
+- [ ] Dataset Preprocessing, loading and training scripts
+- [ ] Training of models in ChronoNet
 
 #### Exploring Wavelet Analysis results:
 - [ ] Exploratory data analysis after applying for Wavelet Analysis
